@@ -1,0 +1,25 @@
+{
+    "project_name": "Gluco",
+    "project_owner": [
+        "Mohammad Barati",
+        "Aisa Cheraghi",
+        "Alireza Khalili"
+    ],
+    "sensors": {},
+    "doctors": {
+        "mohammadbaratiit": "To be completed!"
+    },
+    "patients": {},
+    "services": {
+        "subinflux": "",
+        "publisher": {},
+        "telegrambot": ""
+    },
+    "control_strategy": {
+        "insulin_level_threshold": {
+            "type1": 160,
+            "type2": 150,
+            "type3": 140
+        }
+    }
+}
